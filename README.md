@@ -1,2 +1,2 @@
-# Fusion_sensorial
-Este repositorio presenta un proyecto de fusión sensorial estática para mejorar la medición de distancia mediante la combinación de dos sensores ultrasónicos. La implementación se realiza utilizando MATLAB y una placa Arduino Uno, con el objetivo de corregir y optimizar las lecturas individuales de cada sensor. 
+# Static sensory fusion
+This repository presents a project on static sensor fusion to improve distance measurement by combining two ultrasonic sensors. The implementation is carried out using MATLAB and an Arduino Uno board, with the goal of correcting and optimizing the individual readings from each sensor.
